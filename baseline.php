@@ -1,0 +1,7 @@
+
+    <!-- 底线 -->
+    <div class="base-line">
+        <div class="horizontal-line"><hr /></div>
+        <div class="base-tips">我是有底线的</div>
+        <div class="horizontal-line"><hr /></div>
+    </div> <!-- 底线 end -->
